@@ -1,0 +1,22 @@
+body{
+    color: #222;
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+
+.rectangle {
+    padding: 100px 200px;
+    margin: 50px;
+    background: #ccc;
+    outline: 6px dashed #666 ;
+    
+}
+
+.circle {
+    border-radius: 50%;
+    padding: 40px;
+    background: #f00;
+    display: inline-block;   
+}

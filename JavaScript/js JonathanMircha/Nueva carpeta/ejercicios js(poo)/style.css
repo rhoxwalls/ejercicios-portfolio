@@ -1,0 +1,11 @@
+*{
+    font-family:sans-serif;
+    font-size: 100;
+ }
+
+ .box {
+    display: inline-block;
+    background-color:aqua;
+    border: 1px solid black;    
+
+ }
